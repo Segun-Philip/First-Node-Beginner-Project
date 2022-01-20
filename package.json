@@ -1,24 +1,25 @@
 {
   "name": "nodejs-project",
   "version": "1.0.0",
-  "description": "",
   "main": "10-fs-sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Segun-Philip/first-repo-tutorial.git"
+    "url": "git+https://github.com/Segun-Philip/First-Node-Beginner-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Segun-Philip/first-repo-tutorial/issues"
+    "url": "https://github.com/Segun-Philip/First-Node-Beginner-Project.git"
   },
-  "homepage": "https://github.com/Segun-Philip/first-repo-tutorial#readme",
+  "homepage": "https://github.com/Segun-Philip/First-Node-Beginner-Project#readme",
   "dependencies": {
     "bootstrap": "^5.1.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
